@@ -1,6 +1,6 @@
 Name:		texlive-hershey-mp
-Version:	64878
-Release:	2
+Version:	70885
+Release:	1
 Summary:	MetaPost support for the Hershey font file format
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/hershey-mp
