@@ -3,7 +3,7 @@ Version:	70885
 Release:	1
 Summary:	MetaPost support for the Hershey font file format
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/hershey-mp
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/hershey-mp
 License:	other-free
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/hershey-mp.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/hershey-mp.doc.r%{version}.tar.xz
